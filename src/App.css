@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: auto;
+  padding-top: 40px;
+  background-color: #23252C;
+  height: 868px;
+  width: 500px;
+  
+}
+
+.cardbox {
+  margin: 0 auto 0 auto;  
+  height: auto;
+  width: 317px;
+  background-color: #1A1B21;
+  border: 0;
+  border-radius: 15px;
+}
+
+.info {
+  text-align: center;  
+}
+
+.info--photo {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.info--name {
+  color: #fff;
+}
+
+.info--job {  
+  font-weight: lighter;
+  color: #F3BF99;
+}
+
+.info--website {  
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+
+.info--website a {  
+  text-decoration: none;
+  color: #ccc;
+}
+
+.info--website a:hover {    
+  color: #eee;
+}
+
+.info--buttons {
+  display: flex; 
+  justify-content: space-evenly; 
+  margin-bottom: 35px;  
+}
+
+.info--button {  
+  display: flex;  
+  align-items: center;
+  justify-content: center;  
+  border: 0;
+  border-radius: 6px;
+  width: 115px;
+  height: 34px;
+}
+
+.info--button_text {
+  margin-left: 5px;
+  line-height: 1em;
+}
+
+.info--email_button {
+  background-color: #fff;  
+}
+
+.info--email_button_text {
+  font-weight: 600;
+  color: #374151;
+}
+
+.info--email_button:hover {
+  background-color: rgb(199, 197, 197);  
+}
+
+.info--email_icon {
+  line-height: 1em;
+}
+
+.info--linkedin_button {
+  background-color: #5093E2;
+  
+}
+
+.info--linkedin_button:hover {
+  background-color: #184d8a;
+  
+}
+
+.info--linkedin_text {
+  color: #fff;
+}
+
+.info--linkedin_icon {
+  line-height: 1em;
+  color: #fff;
+}
+
+.mid {
+ padding: 0 30px 0 30px;
+ margin-bottom: 25px;
+}
+
+.about {
+  color: #fff;
+}
+
+.mid--header{
+  color: #F5F5F5;
+  margin-bottom: 5px;
+  line-height: 100%;
+}
+
+.mid--text {
+  margin: 0;
+  color: #DCDCDC;
+  line-height: 1.2em;
+  font-weight: lighter;    
+  font-size: 10px;
+}
+
+.footer {
+  border: 0;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #161619;
+  padding: 20px;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.brand-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: 5px;
+  background-color: #918E9B;
+  height: 30px;
+  width: 30px;
+}
+
+
+.brand-box:hover {
+  line-height: 1em;
+  background-color: rgb(255, 255, 255);
+}
+
+.icon-color {
+  color: #161619;
+}
+
+.face {
+  padding-top: 6px;
+}
