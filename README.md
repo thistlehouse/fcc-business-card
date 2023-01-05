@@ -1,6 +1,6 @@
 # FreeCodeCamp Solo Project
 Learning React on FreeCodeCamp
-This is the first project proposed by the teacher Bob Ziroll
+this is the first project proposed by the teacher Bob Ziroll
 
 ## Business Card Mock
 ![laura-smith-card](./mock/fcc-card-mock.jpg)
