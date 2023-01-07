@@ -1,11 +1,11 @@
-    # FreeCodeCamp Solo Project
-    Learning React on FreeCodeCamp
-    this is the first project proposed by the teacher Bob Ziroll
+# FreeCodeCamp Solo Project
+Learning React on FreeCodeCamp
+this is the first project proposed by the teacher Bob Ziroll
 
-    ## Business Card Mock
-    ![laura-smith-card](./mock/fcc-card-mock.jpg)
+## Business Card Mock
+![laura-smith-card](./mock/fcc-card-mock.jpg)
 
-    Visit [Business Card](https://fcc-business-card.netlify.app/) to see the project
+Visit [Business Card](https://fcc-business-card.netlify.app/) to see the project
 
 ### Requirements
 - Build from scracth
